@@ -1,96 +1,51 @@
-# Hi, I'm PREASX24 – creator of DTECH  
-**Developer | Innovator | Student Community Builder**
+# 👤 Who is Preasx24?
 
-Welcome to my GitHub! I'm a South African developer, digital creator, and founder of the **DTECH ecosystem**, focused on building tools and services that empower students, startups, and digital creators. My projects are practical, clean, and built to solve real problems using tech.
-
----
-
-## 🔧 What I Build
-
-- **Telegram Bots** – Custom bots for info access, giveaways, account status, and fun
-- **Automation Scripts** – Account checkers, info tools, and terminal-based helpers (Python, Bash)
-- **Web Tools** – Responsive, static websites and dashboards for personal or business use
-- **Student Services** – Microsoft Word/Excel tutoring, guides, and content for academic support
-- **Content Tools** – Tools that support creators (link pages, content hubs, etc.)
-
----
-
-## ⚙️ Languages & Tools
-
-- Python | Bash | HTML/CSS | JavaScript
-- Git | GitHub Actions | Netlify | FormSubmit
-- Telegram Bot API | Shell Automation | Static Site Generators
-- Microsoft Office (Word/Excel/PowerPoint) for tutorials and student use
+**Preasx24** is a South African developer, digital creator, and the visionary founder of the **DTECH ecosystem**. Focused on empowering students, startups, and digital creators, Preasx24 builds practical tech solutions and community tools that solve real problems.
 
 ---
 
 ## 🌐 The DTECH Ecosystem
 
-DTECH is more than one site—it's a **network of tools and services**, each with its own role:
+**DTECH** is a network of platforms and services designed to support learners and digital innovators:
 
-### 1. [**DTech Services**](https://www.dtech-services.co.za)  
-The main branch focused on students.  
-Offers:
-- Website development
-- Academic tool support
-- Rentals and textbook marketplace
+- [**preasx24.co.za**](https://preasx24.co.za)  
+  The official portfolio and resource site. Offers past exam papers, study guides, SBA guides, PATs, quizzes, NSFAS info, and university eligibility tools — all aimed at helping students succeed.
 
-### 2. [**DTECH HQ**](https://www.dtech24.co.za)  
-The digital innovation hub of the brand.  
-Hosts:
-- Telegram bots
-- Utility scripts
-- Account checkers and testing tools
+- [**dtech-services.co.za**](https://dtech-services.co.za)  
+  A student-focused marketplace to buy, sell, and rent second-hand textbooks and other educational resources.
 
-### 3. [**DTECH Info**](https://info.dtech24.co.za)  
-The information center.  
-Provides:
-- Tutorials (Word, Excel, bots, scripts)
-- News & updates
-- Free resources and links
+- [**dtech24.co.za**](https://www.dtech24.co.za)  
+  The innovation hub hosting Telegram bots, utility scripts, account checkers, and other developer tools.
+
+- [**info.dtech24.co.za**](https://info.dtech24.co.za)  
+  A content hub providing tutorials, academic guides, and free resources for student support.
 
 ---
 
-## ⭐ Featured Projects
+## 🛠️ Key Projects
 
-- [**DTECH Netflix Checker**](https://github.com/preasx24/DTECH-Netflix-Checker)
-- [**DTECH Weather Bot**](https://github.com/preasx24/DTECH-Weather)
-- [**System Info Script**](https://github.com/preasx24/DTECH-System-Info)
-- [**DTECH Link Directory**](https://github.com/preasx24/DTECH-LinkTree)
-- More coming soon...
-
----
-
-## 🧠 My Mission
-
-> **“Build. Break. Share. Repeat.”**
-
-I believe in building what people need—even if it starts simple. I share code, tools, and ideas freely, so others can **learn**, **use**, and **innovate** on top of them. DTECH is a growing digital brand that will one day provide tech education, business tools, and student support across South Africa—and beyond.
+- **DTECH Netflix Checker** — A tool for managing and verifying Netflix accounts  
+- **System Info Script** — Terminal utility to retrieve system details  
+- **DTECH Link Directory** — Curated links for students and creators  
+- **DTECH Weather Bot** — Telegram bot providing weather updates  
+- **Academic Resources** — Past papers, APS calculators, tutorials  
 
 ---
 
-## 📬 Connect With Me
+## 🧠 Philosophy
 
-- **Telegram:** [@PREASX24](https://t.me/PREASX24)
-- **Instagram:** [@preasx24](https://www.instagram.com/preasx24)
-- **YouTube:** [DTECH Channel](https://www.youtube.com/@DTechServices)
-- **Main Website:** [www.dtech-services.co.za](https://www.dtech-services.co.za)
+> **Build. Break. Share. Repeat.**
+
+Preasx24 believes in creating meaningful technology solutions, learning from experience, and sharing knowledge freely to inspire innovation and uplift communities — especially South African youth.
 
 ---
 
-_Thanks for visiting my GitHub. Feel free to fork a project, contribute, or reach out!_
+## 📬 Connect with Preasx24
 
-<!--
-**Preasx24/Preasx24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Telegram: [@PREASX24](https://t.me/preasx24)  
+- Instagram: [@preasx24](https://www.instagram.com/preasx24/)  
+- YouTube: [DTECH Channel](https://www.youtube.com/@preasx24)  
+- GitHub: [@preasx24](https://github.com/preasx24)  
+- Main Website: [dtech-services.co.za](https://dtech-services.co.za)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
